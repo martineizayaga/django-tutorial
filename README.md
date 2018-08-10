@@ -5,6 +5,7 @@ Followed this tutorial https://www.djangoproject.com/start/
 * Set up a development server
 * Create and manage routes
 * Create and refactor models
+* Create a polls app within the project
 * Set up and configure the admin functionalities
 * Create a simple form
 * Create generic views
